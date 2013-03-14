@@ -13,5 +13,7 @@ Ubiquiti AirRouter & HP							openwrt-ar71xx-generic-ubnt-airrouter-squashfs-fac
 Ubiquiti Bullet M, Pico M, Nano M (HP Also)		openwrt-ar71xx-generic-ubnt-bullet-m-squashfs-factory.bin					
 Ubiquiti UniFi Indoor							openwrt-ar71xx-generic-ubnt-unifi-squashfs-factory.bin
 Ubiquiti UniFi Outdoor							openwrt-ar71xx-generic-ubnt-unifi-outdoor-squashfs-factory.bin
+ALFA HORNET 									openwrt-ar71xx-generic-om2p-squashfs-factory.bin
+OPEN-MESH OM2P									openwrt-ar71xx-generic-ubnt-unifi-outdoor-squashfs-factory.bin
 
 More to come....
